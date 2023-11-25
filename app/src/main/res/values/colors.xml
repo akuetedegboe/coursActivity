@@ -9,4 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="exemple">#FF00FF00</color>
     <color name="font_violet">#3F1C62</color>
+    <color name="font_jaune">#FFC107</color>
+    <color name="bleu_back">#1D1C3B</color>
+    <color name="bleu_btn">#569BDE</color>
 </resources>
